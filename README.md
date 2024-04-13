@@ -4,11 +4,12 @@
 which can print a hello world in different ways
 ---
 
+## Python
 ```python
 print("Hello World")
 ```
 
-
+## Cpp
 ```cpp
 #include <iostream>
 
@@ -20,6 +21,7 @@ return 0;
 }
 ```
 
+## Go
 ```go
 package main
 import "fmt"
